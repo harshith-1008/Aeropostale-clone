@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <nav className="border-b-[0.063rem] border-gray-300 pb-4">
+    <nav className="border-b-[0.063rem] border-gray-300 pb-4 ">
       <section className="bg-[#18274A] flex flex-col text-center">
         <div className="py-1 ">
           <a href="#" className="text-white underline text-xs">
